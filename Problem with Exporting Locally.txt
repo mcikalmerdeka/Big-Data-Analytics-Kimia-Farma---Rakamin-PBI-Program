@@ -1,0 +1,7 @@
+Problem :
+
+There is a big problem where i can't load the locally saved csv file of the query table result. This is because it exceed the maximum size of file that can be imported to looker studio as a data source which is 100 mb, the exported csv file from biquery is 138 mb.
+
+Solution :
+
+Using 'Explore Data' menu with the selected option of explore with looker studio, this will make the entire data can be processed in the looker studio, problem is that gbq account and my main looker studio account has a different google acc, but that's not really making it not accessible though.
