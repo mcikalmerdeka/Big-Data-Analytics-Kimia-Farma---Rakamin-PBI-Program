@@ -1,5 +1,7 @@
 # Big Data Analytics Kimia Farma x Rakamin Academy Project Based Internship
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Big-Data-Analytics-Kimia-Farma---Rakamin-PBI-Program/refs/heads/main/Assets/Project%20Header.jpg)
+
 A one-month, project-based internship as an extension of my bootcamp program, in collaboration with a partner company, Kimia Farma. This internship provided hands-on experience in conducting business analysis to support data-driven decision-making for real-world business scenarios. Key contributions included:
 
 1. Designed data marts and executed ETL process in BigQuery for the provided datasets.
